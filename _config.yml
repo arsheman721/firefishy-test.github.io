@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Example Site using Github Pages
 description: Site built using Github Pages and Jekyll
 header_pages:
